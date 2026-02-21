@@ -81,7 +81,8 @@ Experience a new standard in digital democracy. This **E-Voting System** is a ro
 ---
 
 ## 👨‍💻 Author
-**Rajnandini Patil**  
+**Neha Sutar**  
 *Enabling Digital Democracy through Modern Technology.*
+
 
 
